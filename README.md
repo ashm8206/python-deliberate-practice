@@ -53,7 +53,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 * **Learning Python & Best Practices**
     * [Build On Top of the Basics: Python Progression]
     * [Drastically Improve Your Understanding: Jeff Knupp: Python's Execution Mode]
-    *[Python is not pass-by-value / pass-by-ref, it is pass by object](https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/)
+    * [Python is not pass-by-value / pass-by-ref, it is pass by object](https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/)
     * [Nate Batchelder: Loop like a native]
     * [Columbia Data Scientist Style Guide]
 
